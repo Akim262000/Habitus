@@ -22,6 +22,10 @@
   color: #4B5563 !important;
 }
 
+.text-light-grey {
+  color: #9CA3AF;
+}
+
 .font-85 {
   font-size: 85px;
 }
@@ -86,6 +90,10 @@
   margin-top: 100px;
 }
 
+.mt-90 {
+  margin-top: 90px;
+}
+
 .mb-80 {
   margin-bottom: 80px;
 }
@@ -127,8 +135,29 @@
   margin-right: 20px;
 }
 
+.me-12 {
+  margin-right: 12px;
+}
+
+.mb-12 {
+  margin-bottom: 12px;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
+
 .p-80 {
   padding: 80px;
+}
+
+.pt-70 {
+  padding-top: 70px;
+}
+
+.px-70 {
+  padding-left: 70px;
+  padding-right: 70px;
 }
 
 .px-58 {
@@ -164,6 +193,11 @@
 .py-20 {
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.py-18 {
+  padding-top: 18px;
+  padding-bottom: 18px;
 }
 
 .py-10 {
