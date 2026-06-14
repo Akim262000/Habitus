@@ -1,5 +1,9 @@
+.body {
+  font-family: "Inter";
+}
+
 .bg-orange {
-  background-color: #FE5D33;
+  background-color: #fe5d33;
 }
 
 .bg-dark {
@@ -7,11 +11,23 @@
 }
 
 .bg-light-grey {
-  background-color:  #F6F6F6;
+  background-color: #f6f6f6;
 }
 
 .bg-light-blue {
-  background-color: #DBEDFB;
+  background-color: #dbedfb;
+}
+
+.bg-pink {
+  background-color: #fec6c7;
+}
+
+.bg-light-purple {
+  background-color: #d9b8d5;
+}
+
+.bg-light-blue {
+  background-color: #dbedfb;
 }
 
 .text-dark {
@@ -19,11 +35,11 @@
 }
 
 .text-grey {
-  color: #4B5563 !important;
+  color: #4b5563 !important;
 }
 
 .text-light-grey {
-  color: #9CA3AF;
+  color: #9ca3af;
 }
 
 .font-85 {
@@ -174,10 +190,14 @@
   padding-bottom: 44px;
 }
 
-
 .px-40 {
   padding-left: 40px;
   padding-right: 40px;
+}
+
+.py-36 {
+  padding-top: 36px;
+  padding-bottom: 36px;
 }
 
 .px-33 {
@@ -283,7 +303,6 @@
   right: 113px;
 }
 
-
 /* ********************************* */
 .logos-slider {
   overflow: hidden;
@@ -331,4 +350,27 @@
   max-height: 520px;
   object-fit: contain;
   width: 100%;
+}
+
+.accordion {
+  border-radius: 40px;
+}
+
+.accordion-item,
+.accordion-header {
+  border-radius: 40px !important;
+}
+
+.accordion-header button img {
+  transition: transform 0.3s ease;
+}
+
+/* Открыт */
+.accordion-header button:not(.collapsed) img {
+  transform: rotate(180deg);
+}
+
+/* Закрыт */
+.accordion-header button.collapsed img {
+  transform: rotate(0deg);
 }

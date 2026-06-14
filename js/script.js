@@ -26,7 +26,7 @@ $(".look-inside-slider").slick({
     {
       breakpoint: 575,
       settings: {
-                arrows: false,
+        arrows: false,
         slidesToShow: 1,
       },
     },

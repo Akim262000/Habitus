@@ -131,17 +131,42 @@
     margin-bottom: 30px;
   }
 
+  .mb-70 {
+    margin-bottom: 24px;
+  }
+
   .me-20 {
     margin-right: 0;
   }
 
+  .pb-100 {
+    padding-bottom: 36px;
+  }
+
   .p-80 {
     padding: 24px 16px;
+  }
+
+  .px-70 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .pt-70 {
+    padding-top: 24px;
   }
 }
 
 @media (max-width: 575px) {
   .font-60 {
     font-size: 36px;
+  }
+
+  .font-20 {
+    font-size: 16px;
+  }
+
+  .lh-60 {
+    line-height: 38px;
   }
 }
