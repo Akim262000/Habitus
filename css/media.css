@@ -3,6 +3,10 @@
     margin-right: 0;
   }
 
+  .p-80 {
+    padding: 40px;
+  }
+
   .header {
     height: auto;
   }
@@ -96,12 +100,48 @@
   }
 }
 
+@media (max-width: 991px) {
+  .font-85 {
+    font-size: 60px;
+  }
+
+  .mt-110 {
+    margin-top: 55px;
+  }
+
+  .mt-100 {
+    margin-top: 50px;
+  }
+}
+
 @media (max-width: 767px) {
+  .font-85 {
+    font-size: 50px;
+  }
+
+  .mt-110 {
+    margin-top: 40px;
+  }
+
+  .mt-100 {
+    margin-top: 30px;
+  }
+
   .mb-80 {
     margin-bottom: 30px;
   }
 
   .me-20 {
     margin-right: 0;
+  }
+
+  .p-80 {
+    padding: 24px 16px;
+  }
+}
+
+@media (max-width: 575px) {
+  .font-60 {
+    font-size: 36px;
   }
 }
