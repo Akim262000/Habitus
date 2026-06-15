@@ -8,7 +8,7 @@
 
 [Ссылка на готовый проект](https://akim262000.github.io/Habitus/ "Я проект!") 
 
-[Я использовал макет от Olga](https://www.figma.com/design/F1DDO04IIBbjyj9BirUCJa/Habitus-–-Habit-Tracker-App-Landing-Page--Community-?node-id=2027-281&t=rAXrwRw6hZfH6lhZ-0 "Я макет!") 
+[Я использовал макет от Olga]([https://www.figma.com/design/F1DDO04IIBbjyj9BirUCJa/Habitus-–-Habit-Tracker-App-Landing-Page--Community-?node-id=2027-281&t=rAXrwRw6hZfH6lhZ-0](https://www.figma.com/design/F1DDO04IIBbjyj9BirUCJa/Habitus-–-Habit-Tracker-App-Landing-Page--Community-?node-id=2001-664&t=rAXrwRw6hZfH6lhZ-0) "Я макет!") 
 
 
 ## Этот проект был создан в учебных целях для:
