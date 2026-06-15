@@ -6,9 +6,8 @@
 
 Он демонстрирует базовые концепции веб‑разработки и может служить шаблоном для начинающих.
 
-[Ссылка на готовый проект](https://akim262000.github.io/Habitus/ "Я проект!") 
-
-[Я использовал макет от Olga](https://www.figma.com/design/F1DDO04IIBbjyj9BirUCJa/Habitus-–-Habit-Tracker-App-Landing-Page--Community-?node-id=0-1&p=f&t=rAXrwRw6hZfH6lhZ-0) "Я макет!") 
+* [Ссылка на готовый проект](https://akim262000.github.io/Habitus/ "Демо-версия приложения Habitus")
+* [Я использовал макет от Olga](https://www.figma.com/design/F1DDO04IIBbjyj9BirUCJa/Habitus-–-Habit-Tracker-App-Landing-Page--Community-?node-id=0-1&p=f&t=rAXrwRw6hZfH6lhZ-0 "Исходный дизайн-макет в Figma")
 
 
 ## Этот проект был создан в учебных целях для:
